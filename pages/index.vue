@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    <Menu />
     <div>
       <Logo />
       <h1 class="title">
